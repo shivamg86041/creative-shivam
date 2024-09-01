@@ -32,7 +32,7 @@ const Footer = () => {
                     <i className="bx bxl-instagram"></i>
                     </a>
                 
-                    <a href="https://github.com/ShivamGupta0306" className='footer__social-link' target="_blank">
+                    <a href="https://github.com/Shivamg86041" className='footer__social-link' target="_blank">
                     <i className="uil uil-github-alt"></i>
                     </a>
                 </div>
