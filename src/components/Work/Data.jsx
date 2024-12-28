@@ -4,14 +4,15 @@ import Work3 from "../../assets/work3.png";
 import Work4 from "../../assets/work4.png";
 import Work5 from "../../assets/work5.png";
 import Work6 from "../../assets/Work6.png";
+import Work7 from "../../assets/Work7.png";
 
 export const projectsData = [
   {
     id: 1,
-    image: Work6,
-    title: "NetflixGPT - AI Powered",
+    image: Work7,
+    title: "Rideify",
     category: "web",
-    link: "https://netflixgpt01.vercel.app/",
+    link: "http://uberbyshivam.vercel.app/",
   },
   {
     id: 2,
@@ -22,27 +23,35 @@ export const projectsData = [
   },
   {
     id: 3,
+    image: Work6,
+    title: "NetflixGPT - AI Powered",
+    category: "web",
+    link: "https://netflixgpt01.vercel.app/",
+  },
+
+  {
+    id: 4,
     image: Work2,
     title: "ShivGPT",
     category: "design",
     link: "https://shivgpt.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     image: Work3,
     title: "Talk-A-Tive",
     category: "web",
     link: "https://talk-a-tive.netlify.app/",
   },
   {
-    id: 5,
+    id: 6,
     image: Work4,
     title: "Hirrd",
     category: "web",
     link: "https://hirrd.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     image: Work5,
     title: "Trimmr",
     category: "web",
