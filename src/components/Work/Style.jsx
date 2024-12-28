@@ -39,8 +39,6 @@ export const Wrapper = styled.div`
 
     .work__img {
         width: 295px;
-        height: 200px;
-        object-fit:cover;
         border-radius: 1rem;
         margin-bottom: var(--mb-1);
     }
